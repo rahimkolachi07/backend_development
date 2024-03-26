@@ -12,3 +12,5 @@ def mode4(request):
     return render(request,'team.html')
 def mode5(request):
     return render(request,'why.html')
+def mode5(request):
+    return render(request,'tools.html')
